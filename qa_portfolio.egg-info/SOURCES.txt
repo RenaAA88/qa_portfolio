@@ -1,0 +1,9 @@
+README.md
+setup.py
+qa_portfolio.egg-info/PKG-INFO
+qa_portfolio.egg-info/SOURCES.txt
+qa_portfolio.egg-info/dependency_links.txt
+qa_portfolio.egg-info/top_level.txt
+ui_tests/__init__.py
+ui_tests/pages/__init__.py
+ui_tests/tests/__init__.py
