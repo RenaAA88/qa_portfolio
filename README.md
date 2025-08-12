@@ -1,7 +1,4 @@
 
-# zachet2
-C:\Users\Rena\Documents\zachet2
-
 # QA Portfolio
 ## API-тесты
 - Запуск: `pytest api_tests/ -v --alluredir=allure-results`
